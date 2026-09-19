@@ -25,6 +25,6 @@ Analysis of 243,553 telecom customers using **SQL** and **Power BI** to find wha
 ![Dashboard](teledashscreenshot.png)
 
 ## Conclusion
-No segment stands out, so a blanket retention offer is not supported by this data. To predict churn, we would need plan type, recharge amount and complaint data.
+Churn is about 20% across all segments, so no group stands out. To understand why customers leave, we would need more data such as plan type, recharge amount and complaints.
 
 
